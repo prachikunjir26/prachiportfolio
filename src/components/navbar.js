@@ -8,7 +8,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-8 py-5">
         <div className="flex items-center justify-between h-16">
           <div className="w-full justify-between flex items-center ">
-            <a href="https://prachikunjir26.github.io/prachikunjirportfolio/" className="text-white flex-shrink-0 font-poppins">
+            <a href="https://prachikunjir26.github.io/prachiportfolio/" className="text-white flex-shrink-0 font-poppins">
               Home
             </a>
             <div className="hidden md:block">
@@ -70,7 +70,7 @@ const Navbar = () => {
           <div className="md-px-2 pt-2 pb-3 space-y-1 sm:px-3">
             <a
               className="text-gray-300 hover:text-gray-800 dark:hover:text-white block px-3 py-2 rounded-md text-base font-medium"
-              href="/home"
+              href="https://prachikunjir26.github.io/prachiportfolio/"
             >
               Home
             </a>

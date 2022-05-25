@@ -13,8 +13,9 @@
   "component---src-pages-contact-js.js": "component---src-pages-contact-js-9e17a7bc9cc1ebc09162.js",
   "component---src-pages-education-js-bef98d02f3c048422b42.js.map": "component---src-pages-education-js-bef98d02f3c048422b42.js.map",
   "component---src-pages-education-js.js": "component---src-pages-education-js-bef98d02f3c048422b42.js",
+  "component---src-pages-index-js-0b12e30c0a5e68f6af4c.js.map": "component---src-pages-index-js-0b12e30c0a5e68f6af4c.js.map",
   "component---src-pages-index-js-78dde84f579fbec3f428.js.map": "component---src-pages-index-js-78dde84f579fbec3f428.js.map",
-  "component---src-pages-index-js.js": "component---src-pages-index-js-78dde84f579fbec3f428.js",
+  "component---src-pages-index-js.js": "component---src-pages-index-js-0b12e30c0a5e68f6af4c.js",
   "component---src-pages-projects-js-aecd52a76d4b6792146e.js.map": "component---src-pages-projects-js-aecd52a76d4b6792146e.js.map",
   "component---src-pages-projects-js.js": "component---src-pages-projects-js-aecd52a76d4b6792146e.js",
   "component---src-pages-work-js-307ce14f86edd225a7a2.js.map": "component---src-pages-work-js-307ce14f86edd225a7a2.js.map",
@@ -39,6 +40,7 @@
   "styles.css": "styles.81a921b7452d8b62a432.css",
   "webpack-runtime-270d960674d178ba4e4a.js.map": "webpack-runtime-270d960674d178ba4e4a.js.map",
   "webpack-runtime-33bc97bcd8f048bcfcfd.js.map": "webpack-runtime-33bc97bcd8f048bcfcfd.js.map",
+  "webpack-runtime-363c37376b7d37017d90.js.map": "webpack-runtime-363c37376b7d37017d90.js.map",
   "webpack-runtime-952deb9dbc3b0827e685.js.map": "webpack-runtime-952deb9dbc3b0827e685.js.map",
-  "webpack-runtime.js": "webpack-runtime-33bc97bcd8f048bcfcfd.js"
+  "webpack-runtime.js": "webpack-runtime-363c37376b7d37017d90.js"
 }

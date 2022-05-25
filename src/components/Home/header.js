@@ -24,7 +24,7 @@ const Header = () => {
                   className="text-white cursor-pointer font-poppins"
                   to="https://drive.google.com/file/d/12q9-Z9z-ie9Dekkd138E8HX9KdExOPbM/view?usp=sharing"
                 >
-                  Download Resume
+                  Go to Resume
                 </Link></h1>
           </div>
         </div>
